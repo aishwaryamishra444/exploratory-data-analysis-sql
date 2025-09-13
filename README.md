@@ -26,7 +26,7 @@ The project highlights how SQL can be used effectively for data exploration, pro
 
   -Hierarchical dimension checks
 
-3.Measure Exploration
+3. Measure Exploration
 
   -Descriptive statistics using SQL functions (AVG(), MIN(), MAX(), STDDEV())
 
@@ -34,7 +34,7 @@ The project highlights how SQL can be used effectively for data exploration, pro
 
   -Trend checks on numeric measures
 
-4.Aggregation Analysis
+4. Aggregation Analysis
 
   -Grouping measures by dimensions (GROUP BY)
 
@@ -42,9 +42,9 @@ The project highlights how SQL can be used effectively for data exploration, pro
 
   -Identifying patterns and anomalies in aggregates
 
-5.Ranking Analysis
+5. Ranking Analysis- Cumulative Analysis, Performance analysis
 
--Using SQL window functions (RANK(), DENSE_RANK(), ROW_NUMBER())
+  -Using SQL window functions (RANK(), DENSE_RANK(), ROW_NUMBER())
 
   -Ranking entities like top categories, regions, or products
 
