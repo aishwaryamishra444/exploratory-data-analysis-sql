@@ -66,3 +66,9 @@ The project highlights how SQL can be used effectively for data exploration, pro
   
 <img width="2140" height="838" alt="Project Roadmap" src="https://github.com/user-attachments/assets/4124d05d-095f-46bf-9354-fe8af2edfada" />
 
+
+##⚖️ License
+
+This project is open-source and is released under the MIT(LICENSE).
+You are free to use, modify, and distribute this project for personal or commercial purposes, with proper attribution.
+
